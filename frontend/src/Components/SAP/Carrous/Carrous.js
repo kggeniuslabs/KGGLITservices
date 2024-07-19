@@ -50,7 +50,7 @@ function Datadriven() {
                     </div>
                     <div className="col-lg-4 col-12 p-4 h-25 mb-5 bgsap" data-aos="zoom-in" data-aos-offset="250" data-aos-easing="ease-in-sine" data-aos-duration="800">
                         <h3 className="text-center">Reliability</h3>
-                        <p className="text-center">We ensure system reliability and uptime with our proven SAP solutions. Our expert team offers fast support, proactive maintenance, and tailored innovative solutions to meet your needs.</p>
+                        <p className="text-center">We ensure system reliability and uptime with our proven SAP solutions. Our expert team offers fast support, proactive maintenance and tailored innovative solutions to meet your needs.</p>
                     </div>
                 </div>
 

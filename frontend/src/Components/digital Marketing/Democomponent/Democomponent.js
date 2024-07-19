@@ -9,10 +9,7 @@ function Democomponent() {
     <Demobook/>
 
     </div>
-  )
-}                                                                                                                                                                                                                                                                                                                                                                   componentDidMount() {
-  
-}
-                                       
+  );
+}                                                                                                                                                                                                                                                                                                                                                                  
 
 export default Democomponent

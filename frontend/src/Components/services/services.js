@@ -21,7 +21,7 @@ export function Services(){
                     <div class="w-layout-grid cards-1-grid without-padding-bottom-phone  bgcolors" id="servicepage">
                         <div id="w-node-c7174560-254e-0043-5d8f-a83f594d9ec3-3d9acecd" class="cards-1-sticky-block  bgcolors">
                             <div class="cards-1-about-content ">
-                                <h2 class="heading is-regular-title text-white credtext">Our Expertise</h2>
+                                <h2 class="heading is-regular-title text-white credtext">Our Services</h2>
                                 <p class="card-1-texts  text-bold text-white">We are a team of technology enthusiasts dedicated to providing outstanding digital solutions that are in harmony with your business objectives.</p>
                                 <div class="horizontal-flex with-gap-1em">
                                     {/* <a data-w-id="354ce9a3-4fc9-d308-ac97-e434fca68df7" href="/layouts-1/about-1" class="main-button w-inline-block">
@@ -289,7 +289,7 @@ export function Services(){
                                             <img src={itservices} loading="lazy" alt="" class="icon is-large"/>
                                         </div>
                                         <h2 class="heading is-extra-small-title credtext">SAP</h2>
-                                        <p class="card-6-text-2">SAP Automation makes your business digitally powerful. Our innovative solutions automate operations, boost productivity, and boost growth. With SAP’s innovative technology, we help businesses optimize processes, gain actionable insights, and stay ahead in today’s dynamic market. SAP Automation boosts efficiency, agility, and scalability, helping businesses thrive in the digital age. SAP Automation can transform your business for success.</p>
+                                        <p class="card-6-text-2">SAP Automation makes your business digitally powerful. Our innovative solutions automate operations, boost productivity and boost growth. With SAP’s innovative technology, we help businesses optimize processes, gain actionable insights and stay ahead in today’s dynamic market. SAP Automation boosts efficiency, agility and scalability, helping businesses thrive in the digital age. SAP Automation can transform your business for success.</p>
                                         <Link to="/sap" className="text-primary">View More</Link>
                                     </div>
                                 </div>
@@ -299,7 +299,7 @@ export function Services(){
                                             <img src={digitalmarketing} loading="lazy" alt="" class="icon is-large"/>
                                         </div>
                                         <h2 class="heading is-extra-small-title credtext">IT Services and Support</h2>
-                                        <p class="card-6-text-2">We provide dynamic IT service and support, offering a wide range of solutions including Business Process Outsourcing (BPO), Knowledge Process Outsourcing (KPO), Development Services, and SAP consulting. With a customer-centric approach and a focus on delivering value-added solutions, we empower businesses to optimise their operations, streamline workflows, and drive digital transformation.</p>
+                                        <p class="card-6-text-2">We provide dynamic IT service and support, offering a wide range of solutions including Business Process Outsourcing (BPO), Knowledge Process Outsourcing (KPO), Development Services and SAP consulting. With a customer-centric approach and a focus on delivering value-added solutions, we empower businesses to optimise their operations, streamline workflows and drive digital transformation.</p>
                                         <Link to="/ITServices" className="text-white">View More</Link>
                                     </div>
                                 </div>

@@ -19,7 +19,7 @@
 //                                 <div className="card w-50 m-auto">
 //                                     <div className="card-body rounded-5">
 
-//                                         <p className="card-text d-none d-md-block">We ensure system reliability and uptime with our proven SAP solutions. Our expert team offers fast support, proactive maintenance, and tailored innovative solutions to meet your needs.</p>
+//                                         <p className="card-text d-none d-md-block">We ensure system reliability and uptime with our proven SAP solutions. Our expert team offers fast support, proactive maintenance and tailored innovative solutions to meet your needs.</p>
 //                                     </div>
 //                                 </div>
 //                             </div>
@@ -90,7 +90,7 @@ function Sapaboutkggl() {
                                 <div className="col-sm-12 col-md-6 mb-3">
                                     <div className="card w-50 m-auto">
                                         <div className="card-body rounded-5">
-                                            <p className="card-text d-none d-md-block">We ensure system reliability and uptime with our proven SAP solutions. Our expert team offers fast support, proactive maintenance, and tailored innovative solutions to meet your needs.</p>
+                                            <p className="card-text d-none d-md-block">We ensure system reliability and uptime with our proven SAP solutions. Our expert team offers fast support, proactive maintenance and tailored innovative solutions to meet your needs.</p>
                                         </div>
                                     </div>
                                 </div>

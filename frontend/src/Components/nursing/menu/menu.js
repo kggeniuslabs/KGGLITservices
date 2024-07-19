@@ -28,20 +28,21 @@ export function Menunursing(){
                         <Sclink to="wcu" spy={true} smooth={true} duration={500} className="nav-link active text-white" aria-current="page">Our Unique Edge</Sclink>
                         <a class="nav-link text-white " href="#">About US</a>
                         </li> */}
+                        <li className="nav-item dropdown ms-4 mt-2">
+                                <a className="nav-link dropdown-toggle text-white" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Services
+                                </a>
+                                <ul className="dropdown-menu">
+                                    <li><Link to="/healthcare" className="dropdown-item">Manpower Consultancy for Healthcare</Link></li>
+                                    <li><Link to="/digital marketing" className="dropdown-item">Digital Marketing</Link></li>
+                                    <li><Link to="/sap" className="dropdown-item">SAP</Link></li>
+                                    <li><Link to="/itservices" className="dropdown-item">IT Services and Support</Link></li>
+                                </ul>
+                            </li>
                         <li class="nav-item ms-4">
-                        <Sclink to="services" spy={true} smooth={true} duration={500} className="nav-link active text-white" aria-current="page">Services</Sclink>
+                        <Sclink to="services" spy={true} smooth={true} duration={500} className="nav-link active text-white" aria-current="page">Our Process</Sclink>
 
-                        {/* <a class="nav-link dropdown-toggle text-white" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            Services
-                        </a> */}
-                        {/* <ul class="dropdown-menu">
-                            <li><Sclink to="itites" spy={true} smooth={true} duration={500} className="dropdown-item" href="#">Software Services and Automation</Sclink></li>
-                            <li><Sclink to="E-Commerce" spy={true} smooth={true} duration={500} className="dropdown-item" href="#">E-Commerce Solutions</Sclink></li>
-                            <li><Sclink to="Corporate" spy={true} smooth={true} duration={500} className="dropdown-item" href="#">Corporate Training</Sclink></li>
-                            <li><Sclink to="K-TAG" spy={true} smooth={true} duration={500} className="dropdown-item" href="#">K-TAG</Sclink></li>
-                            <li><Sclink to="kpo" spy={true} smooth={true} duration={500} className="dropdown-item" href="#">KPO</Sclink></li>
-                            <li><Sclink to="Intelligent" spy={true} smooth={true} duration={500} className="dropdown-item" href="#">Intelligent Platform for K12 Education</Sclink></li>
-                        </ul> */}
+                        
                         </li>
                        
                         

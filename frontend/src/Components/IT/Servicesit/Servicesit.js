@@ -80,7 +80,7 @@ function Servicesit() {
             <div className='col'>
               <div className="servicecard m-1 p-4">
                 <h3 className="card-heading">Digital Marketing</h3>
-                <p className="card-text"> With our digital marketing expertise, we help companies grow their online presence, connect with their audience, and reach their goals. Our team delivers tailored solutions to boost brand visibility, drive traffic and increase conversions.</p>
+                <p className="card-text"> With our digital marketing expertise, we help companies grow their online presence, connect with their audience and reach their goals. Our team delivers tailored solutions to boost brand visibility, drive traffic and increase conversions.</p>
               </div>
             </div>
           </Slider>

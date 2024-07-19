@@ -5,6 +5,7 @@ import Scalability from '../Assest/Why Us/4-Scalability.png'
 import Dedication from '../Assest/Why Us/6-Dedication.png'
 import Experience from '../Assest/Why Us/1-Experience.png'
 import Versatility from '../Assest/Why Us/5-Versatility.png'
+import  "./workwithus.css"
 
 import AOS from "aos";
 import "aos/dist/aos.css";
@@ -17,7 +18,7 @@ export function Workwithus(){
         <>
         <div className="bgcolors pb-5 text-white container-fluid">
 
-            <h1 className="text-center p-5">Why KG Genius Labs?</h1>
+            <h1 className="text-center p-5 txtbld">Why KG Genius Labs?</h1>
             <div className="row ms-5">
                             <div className="col-lg-4 mb-5">
                                 <img src={Experience} className="mb-2" data-aos="zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600"/>

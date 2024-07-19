@@ -55,30 +55,31 @@ function Cardswipe() {
         <SwiperSlide>
           <div className='card1'>
             <h3>E-Commerce Website</h3>
-            <p>We create customizable e-commerce websites with secure payments, mobile optimization, SEO, inventory management, and analytics to boost sales.</p>
+            <p>We create customizable e-commerce websites with secure payments, mobile optimization, SEO, inventory management and analytics to boost sales.</p>
           </div>
         </SwiperSlide>
         <SwiperSlide>
           <div className='card1'>
             <h3>LMS</h3>
             <h5>Learning Management System</h5>
-            <p>We specialize in custom LMS for seamless online training. Our solutions enhance learning, efficiency, and organizational growth. </p>
+            <p>We specialize in custom LMS for seamless online training. Our solutions enhance learning, efficiency and organizational growth. </p>
+            {/* <button class="btn btn-primary ms-auto">Demo</button> */}
           </div>
         </SwiperSlide>
         <SwiperSlide>
           <div className='card1'>
             <h3>CRM</h3>
             <h5>Customer Relationship Management</h5>
-            <p>Our CRM solutions streamline customer interactions and sales processes, and enhance satisfaction, fostering stronger customer relationships and revenue growth.</p>
+            <p>Our CRM solutions streamline customer interactions and sales processes and enhance satisfaction, fostering stronger customer relationships and revenue growth.</p>
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        {/* <SwiperSlide>
           <div className='card1'>
             <h3>Billing Software</h3>
             <p>Our billing software simplifies invoicing, billing and payment processes, allowing businesses to manage their finances more efficiently and effectively.
             </p>
           </div>
-        </SwiperSlide>
+        </SwiperSlide> */}
         <SwiperSlide>
           <div className='card1'>
             <h3>WhatsApp Bulk Messaging Software</h3>

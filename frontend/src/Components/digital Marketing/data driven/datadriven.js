@@ -12,7 +12,7 @@ export function Datadriven(){
         <>
             <div className="container-fluid pt-5 mt-5 pb-5">
                 <h3 className="text-center"><b>Data-Driven Digital Marketing Solutions</b></h3>
-                <p className="text-center container">In the domain of achieving business success, research and data are crucial factors. KG -Genius Labs results-oriented digital marketing services ensure you deliver the right message, at the right time, through the right platform. Our approach begins with a comprehensive analysis of your brand's strengths, weaknesses, opportunities, and threats (SWOT), enabling us to develop up-to-date metrics and actionable insights tailored to your specific needs.</p>
+                <p className="text-center container">In the domain of achieving business success, research and data are crucial factors. KG -Genius Labs results-oriented digital marketing services ensure you deliver the right message, at the right time, through the right platform. Our approach begins with a comprehensive analysis of your brand's strengths, weaknesses, opportunities and threats (SWOT), enabling us to develop up-to-date metrics and actionable insights tailored to your specific needs.</p>
             </div>
             <div className="container">
                 <div className="d-flex flex-wrap justify-content-around">

@@ -25,14 +25,20 @@ export function Menuit(){
                         <Sclink to="aboutuspageit" spy={true} smooth={true} duration={500} className="nav-link active text-white" aria-current="page">About Us</Sclink>
                         {/* <a class="nav-link text-white " href="#">About US</a> */}
                         </li>
-                          
+                        <li className="nav-item dropdown ms-2 me-4">
+                                <a className="nav-link dropdown-toggle text-white" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Services
+                                </a>
+                                <ul className="dropdown-menu">
+                                    <li><Link to="/healthcare" className="dropdown-item">Manpower Consultancy for Healthcare</Link></li>
+                                    <li><Link to="/digital marketing" className="dropdown-item">Digital Marketing</Link></li>
+                                    <li><Link to="/sap" className="dropdown-item">SAP</Link></li>
+                                    <li><Link to="/itservices" className="dropdown-item">IT Services and Support</Link></li>
+                                </ul>
+                            </li>
                         <li class="nav-item me-5">
-                        <Sclink to="servicesitpage" spy={true} smooth={true} duration={500} className="nav-link active text-white" aria-current="page">Services</Sclink>
-                        {/* <a class="nav-link text-white " href="#">About US</a> */}
-                        </li>
-                        {/* <li class="nav-item me-5">
-                        <Sclink to="flow" spy={true} smooth={true} duration={500} className="nav-link text-white"   href="#">Flow</Sclink>
-                        </li> */}
+                        <Sclink to="servicesitpage" spy={true} smooth={true} duration={500} className="nav-link active text-white" aria-current="page">Our Expertise</Sclink>
+                        </li> 
                         <li class="nav-item me-5 ">
                         <Sclink to="footerforit" spy={true} smooth={true} duration={500} className="nav-link text-white " href="#">Contact Us</Sclink>
                         </li>

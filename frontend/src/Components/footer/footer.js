@@ -12,36 +12,17 @@ export function Footer(){
             <div className="container-fluid bgcolor text-white " id="footer">
                 <div className="row">
                     <div className="col-lg-3 pt-5">
-                        <h3>Quick View</h3>
+                        <h5><b>Quick View</b></h5>
                         <p> <Sclink activeClass="active" to="/" spy={true} smooth={true} duration={500} className="nav-link active text-white" aria-current="page">Home</Sclink></p>
                         <p><Sclink to="aboutpage" spy={true} smooth={true} duration={500} className="nav-link active text-white" aria-current="page">About Us</Sclink></p>
                         <p> <Sclink to="servicepage" spy={true} smooth={true} duration={500} className="nav-link active text-white" aria-current="page">Services</Sclink> </p>
                         <p> <Sclink to="footer" spy={true} smooth={true} duration={500} className="nav-link text-white " href="#">Contact Us</Sclink></p>
-                        {/* <ul>
-                            <li>
-                                <Sclink activeClass="active" to="home" spy={true} smooth={true} duration={500} className="nav-link active text-white" aria-current="page">Home</Sclink>
-                            </li> 
-                           <li>
-                                <Sclink to="about" spy={true} smooth={true} duration={500} className="nav-link active text-white" aria-current="page">About Us</Sclink>
-                            </li> 
-                            <li>
-                            <Sclink to="services" spy={true} smooth={true} duration={500} className="nav-link active text-white" aria-current="page">Services</Sclink>
-                            </li> 
-                           <li>
-                            <Sclink to="footer" spy={true} smooth={true} duration={500} className="nav-link text-white " href="#">Contact Us</Sclink>
-                            </li>
-                        </ul> */}
+                        
                     </div>
-                    <div className="col-lg-5 pt-5 mt-4">
-                        <h3>Contact Us</h3>
+                    <div className="col-lg-6 pt-5 mt-5">
+                        <h5 className="ms-2"><b>Contact Us</b></h5>
                         <div className="container-fluid">
                             <div className="row">
-                                <div>
-
-                                </div>
-                                <div>
-                                    
-                                </div>
                                 <p className="col-lg-6">
                                     <p>
                                         <span class="city">
@@ -71,7 +52,7 @@ export function Footer(){
                             </div>
                         </div>
                     </div>
-                    <div className="col-lg-4">
+                    <div className="col-lg-3">
                         <div className="pt-3 d-flex justify-content-between col-lg-6 mb-4">
                         <a href="tel:9363466093"><FontAwesomeIcon icon={faPhone} className="hoverani text-white"></FontAwesomeIcon></a>
                         <a href="mailto:info@kggeniuslabs.com"><FontAwesomeIcon icon={faEnvelope} className="hoverani text-white"></FontAwesomeIcon></a>

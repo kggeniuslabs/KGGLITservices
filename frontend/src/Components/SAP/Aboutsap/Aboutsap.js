@@ -19,7 +19,7 @@ Aos.init({duration:1500});
                 <div className='col-sm-12 col-lg-6'>
                     <h1 className='mt-3 aboutheading'>About Us</h1>
                     <h4>Transforming Business Digitally With SAP Automation</h4>
-                    <p className='aboutcontent'>At KGGL, SAP Automation makes your business digitally powerful. Our innovative solutions automate operations, boost productivity, and boost growth. With SAP’s innovative technology, we help businesses optimize processes, gain actionable insights, and stay ahead in today’s dynamic market. SAP Automation boosts efficiency, agility, and scalability, helping businesses thrive in the digital age. SAP Automation can transform your business for success. </p>
+                    <p className='aboutcontent'>At KGGL, SAP Automation makes your business digitally powerful. Our innovative solutions automate operations, boost productivity and boost growth. With SAP’s innovative technology, we help businesses optimize processes, gain actionable insights and stay ahead in today’s dynamic market. SAP Automation boosts efficiency, agility and scalability, helping businesses thrive in the digital age. SAP Automation can transform your business for success. </p>
                 </div>
             </div>
         </div> 

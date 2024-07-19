@@ -58,8 +58,7 @@ import Bannerit  from './Components/IT/Banner/Bannerit';
 import Cardswipe from './Components/IT/Cardswipe/Cardswipe';
 import Autopopupit from './Components/IT/Autopopup/Autopopupit';
 import { Itcontactform } from './Components/IT/Itcontactform/Itcontactform';
-import Sapdemo from './Components/SAP/Sapdemo/Sapdemo';
-import Democomponent from './Components/digital Marketing/Democomponent/Democomponent';
+import Swipingcard from './Components/digital Marketing/Cardswipe/Swipingcard';
 
 function App() {
   return (
@@ -69,8 +68,8 @@ function App() {
             <Routes>
               <Route path='/' element={[<Menu/>,<Banner/>,<Aboutus/>,<Workwithus/>,<Credentials/>,<Services/>,<Newsletter/>,<Footer/>,<AutoPopupModalgl/>]}/>
               <Route path='/healthcare' element={[<Menunursing/>,<Bannernursing/>,<Aboutnursing/>,<Evolution/>,<Howweare/>,<Servicenursing/>,<Contactourteam/>,<Contactform/>,<Footernursing/>,<AutoPopupModal/>]}/>
-              <Route path='/digital marketing' element={[<Menudm/>,<Bannerdm/>,<Aboutdm/>,<Servicesdm/>,<Whydm/>,<Benefitsofdm/>,<Whygldm/>,<Datadriven/>,<Datadrivenfull/>,<Democomponent/>,<Contactformdm/>,<Footerdm/>,<AutoPopupModaldm/>]}/>
-              <Route path='/sap' element={[<Menusap/>,<SapBanner/>,<AboutSap/>,<Expertise/>,<Solutions/>,<Carrous/>,<Contactformsap/>,<Sapdemo/>,<Footersap/>,<Autopopupsap/>]}/>
+              <Route path='/digital marketing' element={[<Menudm/>,<Bannerdm/>,<Aboutdm/>,<Servicesdm/>,<Whydm/>,<Benefitsofdm/>,<Whygldm/>,<Datadriven/>,<Swipingcard/>,<Contactformdm/>,<Footerdm/>,<AutoPopupModaldm/>]}/>
+              <Route path='/sap' element={[<Menusap/>,<SapBanner/>,<AboutSap/>,<Expertise/>,<Solutions/>,<Carrous/>,<Contactformsap/>,<Footersap/>,<Autopopupsap/>]}/>
               <Route path='/itservices' element={[<Menuit/>,<Bannerit/>,<Aboutpage/>,<Cardswipe/>,<Itcontactform/>,<FooterIT/>,<Autopopupit/>]}/>
             </Routes>
           </BrowserRouter>

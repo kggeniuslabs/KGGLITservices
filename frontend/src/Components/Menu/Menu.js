@@ -27,7 +27,7 @@ export function Menu() {
                             <li className="nav-item ms-4">
                                 <Sclink to="aboutpage" spy={true} smooth={true} duration={500} className="nav-link active text-white" aria-current="page">About Us</Sclink>
                             </li>
-                            <li className="nav-item dropdown ms-4 mt-2">
+                            <li className="nav-item dropdown ms-4">
                                 <a className="nav-link dropdown-toggle text-white" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                     Services
                                 </a>

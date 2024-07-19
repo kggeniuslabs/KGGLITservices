@@ -86,7 +86,7 @@ export function Banner() {
                 </div>
                 <div className="carousel-inner">
                     <div className="carousel-item active" data-bs-interval="10000">
-                        <img src={kggl} className="d-block w-100 textback" alt="..." />
+                        <img src={kggl} className="d-block w-100 textback" alt="IT Services" />
                         <div className="carousel-caption">
                             <h1 className="d-none d-md-block"><span>Unlock </span> the Full Potential of Your <span>Business</span><br />with KG Genius Labs</h1>
                             <p className="d-block d-md-none text-center"><span>Unlock </span> the full potential of your <span>business</span><br />with KG Genius Labs</p>
@@ -125,8 +125,8 @@ export function Banner() {
                             <Link to='/sap'><button className="btn btn-primary ms-auto">Explore more</button></Link>
                         </div>
                         <div className="carousel-caption d-block d-md-none">
-                            <p className="text-center">Discover Our New Service</p>
-                            <p className="text-center">Introducing our latest offering to boost your business</p>
+                            <p className="text-center">SAP Excellence</p>
+                            <p className="text-center">Your Path to Business Success</p>
                             <Link to='/sap'><button className="btn btn-primary ms-auto">Explore more</button></Link>
                         </div>
                     </div>

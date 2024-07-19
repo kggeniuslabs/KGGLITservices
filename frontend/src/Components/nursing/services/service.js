@@ -16,7 +16,7 @@ export function Servicenursing(){
            
             <section class="service-2" id="services">
                 <div class="container">
-                    <h3 className="text-center mb-5"><b>Our Service</b></h3>
+                    <h3 className="text-center mb-5"><b>Our Process</b></h3>
                     <div class="row">
 
                         <div class="col-lg-4 col-sm-6">

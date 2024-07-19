@@ -49,7 +49,7 @@ function Expertise() {
   return (
     <div className='container-fluid exp m-0 p-0 ' id='expertisesap'>
         <h3 className='exptext'><b>Our Expertise</b></h3>
-        <p className='text-center'>SAP Implementation, Support Services, and Training for Modernization of Your Business</p>
+        <p className='text-center'>SAP Implementation, Support Services and Training for Modernization of Your Business</p>
         <div className='row'>
           {expertiseData.map((expertise, index) => (
             <div key={index} className='col-sm-12 col-md-6 col-lg-3'>

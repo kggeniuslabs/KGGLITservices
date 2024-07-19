@@ -15,7 +15,7 @@ function SapBanner() {
         <div className='col-md-6 mx-1' data-aos="fade-down">
           <h1 className='main-text'>Rise and Grow with SAP</h1>
           <h3 className='subtext'>The Roadmap of Your Digital Transformation</h3>
-          <p className='parasap'>Embrace digital transformation and business growth with SAP's Rise and Grow. Streamline tactics, enhance customer experiences, unlock new opportunities, and drive sustainable growth.</p>
+          <p className='parasap'>Embrace digital transformation and business growth with SAP's Rise and Grow. Streamline tactics, enhance customer experiences, unlock new opportunities and drive sustainable growth.</p>
           <Link to="sapform" spy={true} smooth={true} duration={500}><button className='px-4 explorebutton'>Explore More</button></Link>
         </div>
         <div className='col-md-5'>

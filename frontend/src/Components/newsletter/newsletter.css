@@ -1,3 +1,7 @@
 .msgboxform:hover{
 border: 2px solid blueviolet;
 }
+.imbox{
+    max-height: 400px;
+    max-width: 400px;
+}
